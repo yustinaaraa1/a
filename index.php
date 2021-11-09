@@ -6,4 +6,7 @@ Narys Palihama
 Simon
 Yustin
 Aise
-Donatus Palyama
+a
+aku adalah
+a
+>>>>>>> aku/main
