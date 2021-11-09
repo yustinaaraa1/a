@@ -6,3 +6,4 @@ Narys Palihama
 Simon
 Yustin
 Aise
+Donatus Palyama
