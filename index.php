@@ -11,5 +11,5 @@ a
 aku adalah
 a
 siapa
-hekuhena
-
+nati mo mari akumu
+>>>>>>> aku/main
