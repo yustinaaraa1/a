@@ -10,3 +10,4 @@ a
 aku adalah
 a
 siapa
+nati mo mari akumu
