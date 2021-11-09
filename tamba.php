@@ -4,7 +4,7 @@
 	<title>Halaman Tambah </title>
 </head>
 <body>
-	<h1>Inilah halaman tambah</h1>
+	<h1>Inilah halaman tambahn</h1>
 
 </body>
 </html>
