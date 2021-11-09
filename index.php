@@ -13,4 +13,5 @@ a
 siapa
 nati mo mari akumu
 pieako q
-nape maiko panano kae?
+j
+
