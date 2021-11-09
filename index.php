@@ -12,5 +12,5 @@ a
 siapa
 nati mo mari akumu
 pieako q
-
+asdajdakjdkjad
 j
