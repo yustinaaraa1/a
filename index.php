@@ -9,3 +9,4 @@ Aise
 a
 aku adalah
 a
+siapa
