@@ -11,3 +11,4 @@ aku adalah
 a
 siapa
 nati mo mari akumu
+pieako q
