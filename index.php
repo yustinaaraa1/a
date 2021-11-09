@@ -9,5 +9,11 @@ Aise
 a
 aku adalah
 a
-okelah marin akuhena nare mio
-sengaja aku
+siapa
+nati mo mari akumu
+pieako q
+asdajdakjdkjad
+j
+abcdefghijklmnopqrstuvwxyz
+adfad
+adasd
