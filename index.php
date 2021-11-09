@@ -15,4 +15,4 @@ nati mo mari akumu
 pieako q
 asdajdakjdkjad
 j
-
+abcdefghijklmnopqrstuvwxyz
