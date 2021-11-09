@@ -10,3 +10,4 @@ a
 aku adalah
 a
 okelah marin akuhena nare mio
+sengaja aku
