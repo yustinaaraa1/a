@@ -9,4 +9,3 @@ Aise
 a
 aku adalah
 a
->>>>>>> aku/main
