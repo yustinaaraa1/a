@@ -5,3 +5,4 @@ sekali lagi
 Narys Palihama
 Simon
 Yustin
+Aise
